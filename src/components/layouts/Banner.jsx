@@ -6,7 +6,7 @@ const Banner = () => {
             style={{
                 backgroundImage: `url("/images/banner.JPG")`,
             }}
-            className="h-screen  bg-no-repeat mt-[-100px] relative text-white flex justify-center items-center xs:h-full xs:py-[120px] sm:w-full sm:py-[120px] "
+            className="h-screen bg-cover bg-no-repeat mt-[-100px] relative text-white flex justify-center items-center xs:h-full xs:py-[120px] sm:w-full sm:py-[120px] "
         >
             <div className="relative z-10 flex container justify-between items-center gap-y-7 ">
                 <div

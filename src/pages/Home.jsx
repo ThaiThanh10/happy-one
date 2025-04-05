@@ -621,7 +621,7 @@ const Home = () => {
                 style={{
                     backgroundImage: `url("/images/banner.JPG")`,
                 }}
-                className="h-full bg-no-repeat mt-10 relative text-white flex justify-center items-center  "
+                className="h-full bg-no-repeat bg-cover mt-10 relative text-white flex justify-center items-center  "
             >
                 <div className="relative z-10 flex container justify-between items-center gap-y-7 xs:py-10 sm:py-10 lg:py-[60px] py-20 ">
                     <div className="max-w-[450px] px-10 py-6 rounded-3xl bg-[#00000080] backdrop-blur-sm ">
